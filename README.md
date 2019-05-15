@@ -1,0 +1,2 @@
+# Dark-openSUSE
+Plasma Theme
