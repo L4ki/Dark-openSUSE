@@ -15,11 +15,11 @@
    viewBox="0 0 32.080002 90.63"
    height="90.629997"
    width="32.080002"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="viewitem.svg">
   <sodipodi:namedview
-     pagecolor="#515151"
-     bordercolor="#666666"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -31,7 +31,7 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="16.983521"
-     inkscape:cx="16.172165"
+     inkscape:cx="7.6050369"
      inkscape:cy="53.342462"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="false"
@@ -120,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
