@@ -20,3 +20,14 @@ Changelog: 13.09.2019.
 
 Icons added: battery.svg, input.svg
 
+Changelog: 19.10.2019.
+----------------------
+
+Icon changed: notification.svg
+
+Modified icons: system.svg, media.svg
+
+Add widgets: action-overlays.svg, listitem.svg
+
+Corrected widget: bar_meter_vertical.svg
+
