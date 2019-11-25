@@ -31,3 +31,8 @@ Add widgets: action-overlays.svg, listitem.svg
 
 Corrected widget: bar_meter_vertical.svg
 
+Changelog: 25.11.2019.
+----------------------
+
+Redesigned Plasma Theme
+
