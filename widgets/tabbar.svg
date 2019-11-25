@@ -13,7 +13,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 91.460619 45.740646"
    sodipodi:docname="tabbar.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="91.460617"
    height="45.740646"
    version="1.1"
@@ -28,12 +28,12 @@
      fit-margin-top="10"
      inkscape:current-layer="svg2"
      inkscape:cy="21.485345"
-     inkscape:cx="69.689579"
+     inkscape:cx="70.871583"
      inkscape:zoom="24.125"
      showgrid="false"
      id="namedview99"
      inkscape:document-units="px"
-     inkscape:window-height="980"
+     inkscape:window-height="982"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -41,9 +41,9 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#353535"
-     inkscape:pagecheckerboard="true"
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="false"
      inkscape:showpageshadow="false"
      inkscape:measure-start="9.75,-27.5"
      inkscape:measure-end="4.25,-15.375" />
@@ -1149,7 +1149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

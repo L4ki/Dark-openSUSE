@@ -14,8 +14,8 @@
    height="70"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="busywidget.svgz"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="busywidget.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0">
   <defs
@@ -125,7 +125,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#a8a8a8"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      gridtolerance="10000"
@@ -133,16 +133,16 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.995"
-     inkscape:cx="62.897855"
-     inkscape:cy="8.1290923"
+     inkscape:zoom="0.99875"
+     inkscape:cx="142.04329"
+     inkscape:cy="-11.819182"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1253"
-     inkscape:window-height="1006"
-     inkscape:window-x="25"
-     inkscape:window-y="-3"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -160,6 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,7 +170,7 @@
      id="layer1"
      transform="translate(259.98575,45)">
     <rect
-       style="fill:#60a500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="hint-rotation-angle"
        width="45"
        height="8.5051775"
@@ -290,15 +291,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;font-family:GreyscaleBasic;-inkscape-font-specification:GreyscaleBasic"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:GreyscaleBasic;-inkscape-font-specification:GreyscaleBasic;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"
        x="1236.4954"
        y="59.401939"
-       id="text4023"
-       sodipodi:linespacing="125%"><tspan
+       id="text4023"><tspan
          y="59.401939"
          x="1236.4954"
          sodipodi:role="line"
-         id="tspan4025" /></text>
+         id="tspan4025"
+         style="font-size:24px;line-height:1.25"> </tspan></text>
     <g
        id="g4196"
        transform="matrix(-0.07289462,0.99733965,-0.99733965,-0.07289462,691.33256,-191.57489)" />
@@ -327,7 +328,7 @@
       </g>
     </g>
     <rect
-       style="fill:#60a500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="hint-rotation-angle-8"
        width="9.9999981"
        height="5"

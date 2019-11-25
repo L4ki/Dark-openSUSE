@@ -10,7 +10,7 @@
    version="1.1"
    id="svg2"
    viewBox="0 0 54 32"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="cantata.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,7 +26,7 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="14.915254"
+     inkscape:cx="-9.7627121"
      inkscape:cy="10.576271"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -60,7 +60,7 @@
        id="path7"
        class="ColorScheme-Text"
        d="m 10,12.999863 c -4.418246,-1.1e-4 -8,3.581644 -8,8 0,4.418357 3.581754,8.000111 8,8.000001 4.418246,1.1e-4 8,-3.581644 8,-8.000001 0,-4.418356 -3.581754,-8.00011 -8,-8 z m 0,1.40678 c 3.865993,0 6.59322,2.86282 6.59322,6.728814 0,3.865993 -2.727227,6.457627 -6.59322,6.457627 -3.865993,0 -6.457627,-2.727227 -6.457627,-6.593221 0,-3.865993 2.591634,-6.59322 6.457627,-6.59322 z"
-       style="color:#31363b;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       style="color:#31363b;fill:#becfd2;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscscsssss" />
     <path
@@ -80,7 +80,7 @@
        id="path13"
        class="ColorScheme-Text"
        d="m 37.002213,3.9999999 c -6.627417,0 -12,5.372583 -12,12.0000001 0,6.627417 5.372583,12 12,12 6.627417,0 12,-5.372583 12,-12 0,-6.6274171 -5.372583,-12.0000001 -12,-12.0000001 z m 0.135593,1.677966 c 6.075133,0 10.186441,4.246902 10.186441,10.3220341 0,6.075133 -4.246902,10.457627 -10.322034,10.457627 -6.075132,0 -10.186441,-4.246901 -10.186441,-10.322033 0,-6.075133 4.246902,-10.4576281 10.322034,-10.4576281 z"
-       style="color:#31363b;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       style="color:#31363b;fill:#becfd2;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssssss" />
     <path
