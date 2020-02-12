@@ -13,28 +13,29 @@
    height="30"
    id="svg9465"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="korgac.svgz">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="korgac.svg">
   <defs
      id="defs9467" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#333336"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.37647059"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="17.123921"
-     inkscape:cy="15.166124"
+     inkscape:cx="46.213413"
+     inkscape:cy="23.521966"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1253"
-     inkscape:window-height="1006"
-     inkscape:window-x="25"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true" />
   <metadata
      id="metadata9470">
     <rdf:RDF>
@@ -43,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

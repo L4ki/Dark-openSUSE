@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="presence-applet.svgz">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="presence-applet.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1216,17 +1216,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="200.00226"
+     inkscape:cx="110.75226"
      inkscape:cy="-9.2236987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1024"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -1236,7 +1236,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1588,72 +1588,70 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:128px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="6.5"
        y="991.36218"
-       id="text3273"
-       sodipodi:linespacing="125%"><tspan
+       id="text3273"><tspan
          sodipodi:role="line"
          id="tspan3275"
          x="6.5"
          y="991.36218"
-         style="font-size:12px">online</tspan></text>
+         style="font-size:12px;line-height:1.25">online</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:128px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="59"
        y="991.36218"
-       id="text3277"
-       sodipodi:linespacing="125%"><tspan
+       id="text3277"><tspan
          sodipodi:role="line"
          id="tspan3279"
          x="59"
          y="991.36218"
-         style="font-size:12px">busy</tspan></text>
+         style="font-size:12px;line-height:1.25">busy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="106"
        y="991.36218"
-       id="text3281"
-       sodipodi:linespacing="125%"><tspan
+       id="text3281"><tspan
          sodipodi:role="line"
          id="tspan3283"
          x="106"
-         y="991.36218">away</tspan></text>
+         y="991.36218"
+         style="font-size:12px;line-height:1.25">away</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="158"
        y="991.36218"
-       id="text3285"
-       sodipodi:linespacing="125%"><tspan
+       id="text3285"><tspan
          sodipodi:role="line"
          id="tspan3287"
          x="158"
-         y="991.36218">n/a</tspan></text>
+         y="991.36218"
+         style="font-size:12px;line-height:1.25">n/a</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="195"
        y="991.36218"
-       id="text3289"
-       sodipodi:linespacing="125%"><tspan
+       id="text3289"><tspan
          sodipodi:role="line"
          id="tspan3291"
          x="195"
-         y="991.36218">invisible</tspan></text>
+         y="991.36218"
+         style="font-size:12px;line-height:1.25">invisible</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="248.5"
        y="991.36218"
-       id="text3293"
-       sodipodi:linespacing="125%"><tspan
+       id="text3293"><tspan
          sodipodi:role="line"
          id="tspan3295"
          x="248.5"
-         y="991.36218">offline</tspan></text>
+         y="991.36218"
+         style="font-size:12px;line-height:1.25">offline</tspan></text>
     <g
        id="user-invisible-plasma">
       <path

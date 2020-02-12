@@ -14,7 +14,7 @@
    width="24"
    height="24"
    id="svg2408"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="akonadi.svg">
   <metadata
      id="metadata99">
@@ -29,25 +29,26 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#000000"
-     bordercolor="#666666"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
      inkscape:pageopacity="0.43137255"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview97"
      showgrid="false"
-     inkscape:zoom="9.83"
-     inkscape:cx="-19.588325"
-     inkscape:cy="9.6669825"
+     inkscape:zoom="6.9508597"
+     inkscape:cx="30.40324"
+     inkscape:cy="4.8301811"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2408" />
+     inkscape:current-layer="svg2408"
+     inkscape:lockguides="true" />
   <defs
      id="defs2410">
     <linearGradient

@@ -134,13 +134,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99875"
-     inkscape:cx="142.04329"
+     inkscape:cx="-37.681366"
      inkscape:cy="-11.819182"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -160,7 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,7 +170,7 @@
      id="layer1"
      transform="translate(259.98575,45)">
     <rect
-       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#2c786b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="hint-rotation-angle"
        width="45"
        height="8.5051775"
@@ -317,7 +317,7 @@
       <g
          id="g3780">
         <path
-           style="fill:#006A80;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#2c786b;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="M 35,5 C 18.431458,5 5,18.431458 5,35 5,51.568542 18.431458,65 35,65 51.568542,65 65,51.568542 65,35 65,18.431458 51.568542,5 35,5 z m 0,5 C 48.807119,10 60,21.192881 60,35 60,48.807119 48.807119,60 35,60 21.192881,60 10,48.807119 10,35 10,21.192881 21.192881,10 35,10 z"
            transform="translate(-259.98575,-45)"
            id="path3749" />
@@ -350,7 +350,7 @@
            id="path2867"
            transform="translate(-259.98575,-45)"
            d="M 35,5 C 18.431458,5 5,18.431458 5,35 5,51.568542 18.431458,65 35,65 51.568542,65 65,51.568542 65,35 65,18.431458 51.568542,5 35,5 z m 0,5 C 48.807119,10 60,21.192881 60,35 60,48.807119 48.807119,60 35,60 21.192881,60 10,48.807119 10,35 10,21.192881 21.192881,10 35,10 z"
-           style="fill:#006A80;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+           style="fill:#2c786b;fill-opacity:1;fill-rule:evenodd;stroke:none" />
         <path
            id="path2869"
            d="m -224.98575,-20 c -3.86599,0 -7,-3.134007 -7,-7 0,-3.865993 3.13401,-8 7,-8 3.86599,0 5.52285,-3 0,-3 -5.52285,0 -10,5.477153 -10,11 0,5.522847 4.47715,10 10,10"
