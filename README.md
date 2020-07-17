@@ -49,3 +49,8 @@ Changelog: 10.06.2020.
 Redesigned Plasma Theme
 
 Changelog: 17.07.2020.
+----------------------
+
+Widgets correction: button.svg, viewitem.svg, plasmoidheading.svg
+
+Icon correction: window.svg
