@@ -47,3 +47,5 @@ Changelog: 10.06.2020.
 ----------------------
 
 Redesigned Plasma Theme
+
+Changelog: 17.07.2020.
