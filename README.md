@@ -54,3 +54,9 @@ Changelog: 17.07.2020.
 Widgets correction: button.svg, viewitem.svg, plasmoidheading.svg
 
 Icon correction: window.svg
+
+
+Changelog: 21.08..2020.
+-----------------------
+
+Correction widgets: tabbar.svg, viewitem.svg
