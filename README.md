@@ -60,3 +60,10 @@ Changelog: 21.08..2020.
 -----------------------
 
 Correction widgets: tabbar.svg, viewitem.svg
+
+Changelog: 05.09.2020.
+----------------------
+
+Correction widgets: button.svg
+
+Colors file correction
