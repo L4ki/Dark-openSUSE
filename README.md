@@ -67,3 +67,10 @@ Changelog: 05.09.2020.
 Correction widgets: button.svg
 
 Colors file correction
+
+Changelog: 26.09.2020.
+----------------------
+
+fixed widget: button.svg
+
+Widget correction: clock.svg
