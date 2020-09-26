@@ -13,7 +13,7 @@
    width="200"
    id="svg2"
    sodipodi:docname="clock.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1014"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="2.3808328"
@@ -386,7 +386,7 @@
        height="1.7321701"
        width="77.735947"
        id="rect6212"
-       style="fill:#006a80;fill-opacity:1;stroke:none" />
+       style="fill:#00a489;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(-0.50061728,-0.86566873,0.86566873,-0.50061728,985.87226,726.54885)"
        y="96"
