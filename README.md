@@ -74,3 +74,8 @@ Changelog: 26.09.2020.
 fixed widget: button.svg
 
 Widget correction: clock.svg
+
+Changelog: 11.11.2020.
+----------------------
+
+Fixed widget: panel-background.svg
