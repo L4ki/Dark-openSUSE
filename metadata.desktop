@@ -1,13 +1,16 @@
 [Desktop Entry]
-Name=Dark-openSUSE
+Name=Dark-openSUSE-Plasma
 Comment=Dark-openSUSE Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
-X-KDE-PluginInfo-Name=Dark-openSUSE
-X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Name=Dark-openSUSE-Plasma
+X-KDE-PluginInfo-Version=2.2
 X-Plasma-API=5.0
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
+
+[AdaptiveTransparency]
+enabled=true
