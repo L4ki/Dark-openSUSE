@@ -85,3 +85,8 @@ Changelog: 20.12.2021.
 ----------------------
 
 Redesigned theme
+
+Changelog: 04.01.2022.
+----------------------
+
+Fixed widget: clock.svg
