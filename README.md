@@ -90,3 +90,8 @@ Changelog: 04.01.2022.
 ----------------------
 
 Fixed widget: clock.svg
+
+Changelog: 02.02.2022.
+----------------------
+
+Redesigned Plasma Theme
