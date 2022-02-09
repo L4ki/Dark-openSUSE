@@ -95,3 +95,8 @@ Changelog: 02.02.2022.
 ----------------------
 
 Redesigned Plasma Theme
+
+Changelog: 09.02.2022.
+----------------------
+
+Update widget: tasks.svg
