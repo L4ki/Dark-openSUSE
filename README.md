@@ -100,3 +100,8 @@ Changelog: 09.02.2022.
 ----------------------
 
 Update widget: tasks.svg
+
+Changelog: 16.02.2022.
+----------------------
+
+Update icon: window.svg
